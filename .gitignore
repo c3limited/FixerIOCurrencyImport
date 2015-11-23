@@ -1,0 +1,4 @@
+composer.lock
+/test/deploy/
+/vendor
+!/test/deploy/.empty

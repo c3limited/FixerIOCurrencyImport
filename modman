@@ -1,0 +1,3 @@
+src/public_html/app/code/local/C3/FixerIOCurrencyImport/Model/Currency/Import/FixerIO.php app/code/local/C3/FixerIOCurrencyImport/Model/Currency/Import/FixerIO.php
+src/public_html/app/code/local/C3/FixerIOCurrencyImport/etc/config.xml                    app/code/local/C3/FixerIOCurrencyImport/etc/config.xml                   
+src/public_html/app/etc/modules/C3_FixerIOCurrencyImport.xml                              app/etc/modules/C3_FixerIOCurrencyImport.xml                             

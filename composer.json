@@ -1,0 +1,15 @@
+{
+    "name": "C3/FixerIOCurrencyImport",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Imports currency rates from 'fixer.io'. Provides an alternative to 'www.webservicex.net'.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"C3 Media",
+            "email":"development@c3media.co.uk"
+        }
+    ]
+}

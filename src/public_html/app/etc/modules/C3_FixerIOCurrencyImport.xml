@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <C3_FixerIOCurrencyImport>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </C3_FixerIOCurrencyImport>
+    </modules>
+</config>
