@@ -1,6 +1,7 @@
 C3 FixerIOCurrencyImport Extension
 =====================
-Add your description here
+Imports currency rates from 'fixer.io'. Provides an alternative to 'www.webservicex.net'.
+
 Facts
 -----
 - version: 1.0.0
@@ -9,8 +10,6 @@ Facts
 
 Description
 -----------
-Imports currency rates from 'fixer.io'. Provides an alternative to 'www.webservicex.net'.
-
 To set fixer.io to import currency rates on a schedule, navigate to System > Configuration > General > Currency Setup, and set the Service field to 'fixer.io', under the Scheduled Import Settings section. 
 
 
