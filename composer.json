@@ -1,5 +1,5 @@
 {
-    "name": "C3/FixerIOCurrencyImport",
+    "name": "c3/fixerIOCurrencyImport",
     "license": "OSL-3.0",
     "type": "magento-module",
     "description": "Imports currency rates from 'fixer.io'. Provides an alternative to 'www.webservicex.net'.",
